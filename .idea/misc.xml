@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/day01SpringMVC__quick" />
+    <file type="web" url="file://$PROJECT_DIR$/day02SpringMVC__01response" />
+    <file type="web" url="file://$PROJECT_DIR$/day02SpringMVC__02fileupload" />
+    <file type="web" url="file://$PROJECT_DIR$/day02SpringMVC__03fileupload_server" />
+    <file type="web" url="file://$PROJECT_DIR$/day02SpringMVC__04exception" />
+    <file type="web" url="file://$PROJECT_DIR$/oa_system" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_day02" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_day03" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_day04" />
+    <file type="web" url="file://$PROJECT_DIR$/SSM" />
+    <file type="web" url="file://$PROJECT_DIR$/SSM1" />
+    <file type="web" url="file://$PROJECT_DIR$/SSM2" />
+    <file type="web" url="file://$PROJECT_DIR$/SSM_Project1/SSM_Controller" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/day01SpringMVC__quick/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_day02/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_day03/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_day04/pom.xml" />
+        <option value="$PROJECT_DIR$/day02SpringMVC__01response/pom.xml" />
+        <option value="$PROJECT_DIR$/day02SpringMVC__03fileupload_server/pom.xml" />
+        <option value="$PROJECT_DIR$/day02SpringMVC__04exception/pom.xml" />
+        <option value="$PROJECT_DIR$/SSM/pom.xml" />
+        <option value="$PROJECT_DIR$/SSM1/pom.xml" />
+        <option value="$PROJECT_DIR$/SSM2/pom.xml" />
+        <option value="$PROJECT_DIR$/oa_system/pom.xml" />
+        <option value="$PROJECT_DIR$/SSM_Project/pom.xml" />
+        <option value="$PROJECT_DIR$/SSM_Project1/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/SSM_Project/SSM_Controller/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,2 @@
+2020-08-22 15:53:58,082 0      [           main] INFO  ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13969fbe: startup date [Sat Aug 22 15:53:58 CST 2020]; root of context hierarchy
+2020-08-22 15:53:58,275 193    [           main] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [applicationContext.xml]

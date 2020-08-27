@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring_day04" />
+        <module name="spring_day03" />
+        <module name="spring_day02" />
+        <module name="SSM (1)" />
+        <module name="SSM_Domain" />
+        <module name="SSM_Domain (1)" />
+        <module name="day02SpringMVC__04exception" />
+        <module name="SSM_dao" />
+        <module name="day01SpringMVC__quick" />
+        <module name="oa_system" />
+        <module name="SSM_Dao" />
+        <module name="SSM" />
+        <module name="SSM2" />
+        <module name="day02SpringMVC__03fileupload_server" />
+        <module name="SSM_Service (1)" />
+        <module name="SSM_Service" />
+        <module name="SSM_Controller" />
+        <module name="day02SpringMVC__01response" />
+        <module name="SSM_Controller (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="day01SpringMVC__quick" target="1.8" />
+      <module name="day02SpringMVC__01response" target="1.8" />
+      <module name="day02SpringMVC__02fileupload" target="1.8" />
+      <module name="day02SpringMVC__03fileupload_server" target="1.8" />
+      <module name="day02SpringMVC__04exception" target="1.8" />
+      <module name="oa_system" target="1.8" />
+      <module name="spring_day01" target="1.5" />
+      <module name="spring_day02" target="1.8" />
+      <module name="spring_day03" target="1.8" />
+      <module name="spring_day04" target="1.8" />
+      <module name="springMVC_day01" target="1.5" />
+      <module name="SSM" target="1.8" />
+      <module name="SSM (1)" target="1.8" />
+      <module name="SSM2" target="1.8" />
+      <module name="SSM_Controller" target="1.8" />
+      <module name="SSM_Controller (1)" target="1.8" />
+      <module name="SSM_Dao" target="1.8" />
+      <module name="SSM_dao" target="1.8" />
+      <module name="SSM_Domain" target="1.8" />
+      <module name="SSM_Domain (1)" target="1.8" />
+      <module name="SSM_Project" target="1.8" />
+      <module name="SSM_Project (1)" target="1.8" />
+      <module name="SSM_Service" target="1.8" />
+      <module name="SSM_Service (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
